@@ -2,7 +2,7 @@
 
 A premium, cinematic full-stack developer portfolio built by **Ashwin N**. Designed with a medieval-futuristic luxury aesthetic ("House Stark / Winter is Coding"), this portfolio features custom animations, high-end visual effects, and full responsive design.
 
-![Portfolio Preview](images/image6.png)
+<img width="1919" height="961" alt="Screenshot 2026-05-28 132051" src="https://github.com/user-attachments/assets/f9ed7f07-ff28-4e08-9191-4dc2c7215145" />
 
 ## 🌟 Key Features
 
